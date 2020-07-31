@@ -1,0 +1,12 @@
+Boston, New York
+Philadelphia, Newark
+Newark, Boston
+Trenton, Albany
+New York, Dallas
+Washington, Los Angeles
+Los Vegas, Washington
+Dallas, Ohio
+Ohio, Chicago
+New York, New York
+Newark, Texas
+Arizona, Philadelphia
